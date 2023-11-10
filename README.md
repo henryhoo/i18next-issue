@@ -39,3 +39,7 @@ go away.
 package version:
 * "react-i18next": "^13.3.2",
 * "i18next": "^23.7.1",
+
+if downgrade to this version, issue is gone:
+* "react-i18next": "^11.18.3",
+* "i18next": "^21.8.16",
